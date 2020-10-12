@@ -26,6 +26,8 @@ Here are my goals - I know I won't finish all (or even most) of them, but I'll m
 * Create a directory brute force scanner tool
 * Create a password cracker
 * Reverse shells in different languages
+* Penetration testing: Engagement tracker
+* Tattoo shop website
 
 ## Challenges
 * runcode.ninja's Easy Section
