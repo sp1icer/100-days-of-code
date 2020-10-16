@@ -12,6 +12,13 @@ Here are my goals - I know I won't finish all (or even most) of them, but I'll m
 ## Courses
 * FreeCodeCamp
 
+## FCC Projects
+* Tribute Page
+* Survey Form
+* Product Landing Page
+* Technical Documentation Page
+* Personal Portfolio Webpage
+
 ## Books
 * Violent Python
 * PowerShell for Sysadmins
