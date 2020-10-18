@@ -35,6 +35,8 @@ Here are my goals - I know I won't finish all (or even most) of them, but I'll m
 * Reverse shells in different languages
 * Penetration testing: Engagement tracker
 * Tattoo shop website
+* Create programming language in C
+* Create a DLL
 
 ## Challenges
 * runcode.ninja's Easy Section
